@@ -1,1 +1,1 @@
-# Food-Outlet-Ordering-System
+# Food-Outlet-Management-System
